@@ -1,6 +1,7 @@
-echo "endee/
-python/
+echo "venv/
+.DS_Store
 __pycache__/
 *.pyc
-.venv/
-" > .gitignore
+endee/
+third_party/
+python/" > .gitignore
