@@ -1,0 +1,5 @@
+Python is one of the most popular programming languages used in Artificial Intelligence and Machine Learning. It is known for its simplicity, readability, and vast ecosystem of libraries such as NumPy, Pandas, TensorFlow, and PyTorch. Python is widely used for data analysis, automation, web development, and AI model building.
+
+Java is a versatile, object-oriented programming language that is widely used in enterprise-level applications. It is known for its portability, scalability, and strong community support. Java is commonly used in backend systems, Android app development, and large-scale distributed systems.
+
+Data Structures and Algorithms (DSA) form the foundation of efficient programming. Data structures like arrays, linked lists, stacks, queues, and trees help in organizing data effectively, while algorithms provide step-by-step procedures to solve problems. Mastery of DSA is essential for software development and technical interviews.

@@ -1,0 +1,5 @@
+Artificial Intelligence (AI) is the simulation of human intelligence in machines that are programmed to think, learn, and make decisions. AI systems are designed to mimic cognitive functions such as problem-solving, reasoning, and understanding natural language. Today, AI is widely used in applications like chatbots, recommendation systems, autonomous vehicles, and healthcare diagnostics.
+
+Machine Learning (ML) is a subset of Artificial Intelligence that focuses on enabling machines to learn from data without being explicitly programmed. ML algorithms identify patterns in data and improve their performance over time. Common applications of machine learning include spam detection, image recognition, fraud detection, and predictive analytics.
+
+Deep Learning is a specialized branch of machine learning that uses neural networks with multiple layers (deep neural networks). It is particularly powerful in handling large amounts of unstructured data such as images, audio, and text. Deep learning is used in technologies like voice assistants, self-driving cars, and advanced image processing systems.
