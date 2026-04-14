@@ -1,7 +1,41 @@
-echo "venv/
-.DS_Store
+# 🔹 Python
 __pycache__/
 *.pyc
-endee/
-third_party/
-python/" > .gitignore
+*.pyo
+*.pyd
+
+# 🔹 Virtual Environment (VERY IMPORTANT)
+venv/
+env/
+.venv/
+
+# 🔹 Environment variables (API keys)
+.env
+
+# 🔹 VS Code
+.vscode/
+
+# 🔹 OS files
+.DS_Store
+Thumbs.db
+
+# 🔹 Build / cache
+build/
+dist/
+
+# 🔹 Large / unnecessary files
+*.pkl
+*.index
+*.bin
+*.pt
+*.dll
+
+# 🔹 Logs
+*.log
+
+# 🔹 Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# 🔹 Temporary files
+*.tmp
+*.temp
